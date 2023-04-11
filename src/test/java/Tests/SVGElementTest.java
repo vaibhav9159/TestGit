@@ -31,6 +31,10 @@ public class SVGElementTest extends BaseTest{
 		gpage.byLocatorSearch("India Population");	
 	}
 	
-	
+	@Test(priority=3)
+	public void verifyData()
+	{
+		System.out.println("test git feature branch");
+	}
 	
 }
