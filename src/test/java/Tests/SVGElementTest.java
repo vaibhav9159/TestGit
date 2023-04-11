@@ -34,7 +34,7 @@ public class SVGElementTest extends BaseTest{
 	@Test(priority=3)
 	public void verifyData()
 	{
-		System.out.println("test git feature branch");
+		System.out.println("test git feature branch + 2nd commit change");
 	}
 	
 }
