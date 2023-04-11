@@ -31,11 +31,6 @@ public class SVGElementTest extends BaseTest{
 		gpage.byLocatorSearch("India Population");	
 	}
 	
-	@Test(priority=3)
-	public void verify2ndCommit()
-	{
-	//	gpage.searchInGoogle("India Population");
-		gpage.byLocatorSearch("verify second commit");	
-	}
+	
 	
 }
